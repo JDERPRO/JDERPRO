@@ -1,18 +1,20 @@
-# Hi 👋, I'm Jorge Ramirez
+# Hola, soy JDERPRO 👋
 
-### A budding Javascript developer
+### 🛠 Especialista en Automatización BIM (Revit API)
+Desarrollo plugins que ahorran horas de trabajo manual en arquitectura e ingeniería.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JDERPRO&label=Profile views&color=0e75b6&style=flat" alt="JDERPRO" /> </p>
+- 🏗 **Plugins actuales:** En desarrollo Suite de Productividad 2026.
+- 🐍 **Python/C#:** Apps de escritorio y herramientas nativas de Revit.
+- ⚡ **Dato curioso:** Mi flujo de trabajo está automatizado para que el código hable por mí.
 
-- 🔭 I'm currently working on **Plugins de C# para revit y automatizacion de tareas **
+---
 
-- 🌱 I'm currently learning **Java y htlm **
+### 📊 Mis estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=JDERPRO&show_icons=true&theme=tokyonight)
 
-- 👯 I'm looking to collaborate on **Presupuestos en tiempo real revit**
+### 🚀 Última actividad en mis Plugins
 
-- 📫 How to reach me **j.biquearquitectos@gmail.com**
-
-- 📝 I regularly write articles on **[https://script.google.com/macros/s/AKfycbwcWRdoU-NFJDZv-vJFsM3oJ-HW_N0QBxWPrZsHT499/dev](https://script.google.com/macros/s/AKfycbwcWRdoU-NFJDZv-vJFsM3oJ-HW_N0QBxWPrZsHT499/dev)**
+- 📝 Escribo articulos regularmente en : **[https://script.google.com/macros/s/AKfycbwcWRdoU-NFJDZv-vJFsM3oJ-HW_N0QBxWPrZsHT499/dev](https://script.google.com/macros/s/AKfycbwcWRdoU-NFJDZv-vJFsM3oJ-HW_N0QBxWPrZsHT499/dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
