@@ -14,7 +14,7 @@ Desarrollo plugins que ahorran horas de trabajo manual en arquitectura e ingenie
 
 ### 🚀 Última actividad en mis Plugins
 
-- 📝 Escribo articulos regularmente en : **https://jderpro.github.io/Curriculum-personal/#about**
+- 📝 Escribo articulos regularmente en : **https://jderpro.github.io/Curriculum-personal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
